@@ -1,1 +1,1 @@
-R7tXrTxNxo*8!p%gtSBA
+![Metrics](/github-metrics.svg)
